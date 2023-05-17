@@ -1,0 +1,24 @@
+{
+  "name": "configuration-manager-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "axios": "^0.21.1",
+    "blob": "^0.1.0",
+    "body-parser": "^1.19.0",
+    "easy-soap-request": "^5.3.0",
+    "express": "4.17.1",
+    "file-base64": "^1.0.0",
+    "fs-extra": "^11.1.1",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.8.0",
+    "xml2js": "^0.4.23"
+  }
+}
